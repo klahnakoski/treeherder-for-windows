@@ -97,8 +97,8 @@ A python virtual environment will be activated on login, and the working
 directory will be the ``treeherder`` source directory shared from the
 host machine.
 
-**If you just wish to `run the tests <running-tests.rst>`__, you can
-stop now without performing the remaining steps below.**
+**If you just wish to [run the tests](http://treeherder.readthedocs.io/common_tasks.html#running-tests),
+you can stop now without performing the remaining steps below.**
 
 Setting up a local Treeherder instance
 --------------------------------------
